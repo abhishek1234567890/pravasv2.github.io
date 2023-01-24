@@ -1,0 +1,438 @@
+.container-fluid{
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 5%;
+    padding-right: 2%;
+    
+}
+
+.navbar{
+    padding-bottom: 0rem;
+    padding-left: 0;
+    padding-top: 0;
+    
+   
+}
+
+/* .navbar-brand{
+    font-size: 2.5rem;
+} */
+
+
+.nav-link{
+    font-size: 1.2rem;
+}
+.nav-item{
+    padding: 0 18px;
+    font-family: 'Roboto', sans-serif;
+} 
+
+/* .object-fit-contain{
+    padding-left: 0;
+    padding-right: 0;
+} */
+
+/* .carousel-item{
+    
+
+} */
+
+.bg-img-1{
+    background-image: url("carousel-images/img-7.jpg");
+}
+.bg-img-2{
+    background-image: url("carousel-images/img-11.jpg");
+}
+.bg-img-3{
+    background-image: url("carousel-images/img-12.jpg");
+}
+
+.carousel-image{
+    height: 85vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+/*---------- facilities--------- */
+
+.facility-class{
+    text-align: center;
+    
+}
+
+.facility-heading{
+    padding-top: 4rem;
+}
+
+.facility-p{
+    padding-top: 1rem;
+    font-size: 18px;
+    width: 50%;
+    margin-left: 25%;
+    padding-bottom: 3%;
+    
+}
+
+#facilities{
+    background-image: url('images/img-13.jpg');
+    /* background-repeat: no-repeat; */
+    
+    
+}
+
+.facility-paddings{
+    padding: 1% 5%;
+    text-align: center;
+}
+
+.card-bg-color{
+    background-color: #00479d;
+    color: white;
+}
+/* .card{ */
+    /* background-color:;
+    padding-top: 7%;
+    padding-bottom: 7%;
+    padding-left: 5%;
+    padding-right: 5%;
+} */
+
+/* .teams-column{
+    padding: 1% 2%;
+} */
+
+.teams-description{
+    padding-left: 5%;
+    padding-right: 5%;
+    
+}
+
+.teams-column{
+    padding-top: 3%;   
+    padding-bottom: 3%;
+}
+
+/* .card{
+    padding-top: 5%;
+} */
+.card-header{
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+
+
+
+
+
+
+/*--------- Our Service----- */
+.service-header{
+    text-align: center;
+    font-weight: bold;
+    padding-bottom: 3%;
+    font-family: 'Solitreo', cursive;
+    font-size: 3.2rem;
+}
+
+
+
+.service-container{
+    padding-top: 4%;
+    padding-bottom: 4%;
+    padding-left: 10%;
+    padding-right: 10%;
+    text-align: center;
+}
+
+/* .service-bg{
+    background-image: url('images/service-images/service1.jpg');
+    
+} */
+
+.paddings{
+    padding-bottom: 7%;
+    
+
+}
+/* .card-img{
+    opacity: 0.6;
+} */
+
+.card-title{
+    position: relative;
+    top: 85%;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 2.1rem;
+}
+
+/* ----------------REPORT------------------- */
+
+
+#Reports{
+    background-image: url('images/img-13.jpg');
+    /* background-repeat: no-repeat; */
+}
+.container-report{
+    padding-top: 3%;
+    padding-bottom: 7%;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.count-heading{
+    flex: 1;
+    font-size: 40px;
+    text-align: center;
+    background: #00479d;
+    color: #fff;
+    padding-top: 10%;
+    padding-bottom: 2%;
+    border-radius: 5%;
+}
+.count{
+    font-size: 5rem;
+}
+
+.count-title{
+    padding-top: 15%;
+    padding-bottom: 5%;
+    padding-left: 3%;
+    padding-right: 3%;
+    text-align: center;
+    font-size: 2rem;
+}
+
+
+/*--------------- ABOUT US--------------------------- */
+
+
+
+.About-title{
+    padding-top: 3%;
+    text-align: center;
+    
+}
+
+.center{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 35%;
+   border-radius: 5%;
+}
+
+.About-p{
+    font-size: 1.4rem; 
+    padding-top:3%; 
+    width:50%;
+    margin-left:25%;
+    text-align: center;
+    
+} 
+
+
+
+/*------------- CONTACT------------- */
+
+#Contact{
+    background-image: url('images/contact/contact.jpg');
+    background-repeat: no-repeat;
+    
+}
+
+.form-group{
+    padding-bottom:2%;
+}
+
+.form-control{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    border-radius: 0.8rem;
+}
+.container-fluid-contact{
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 7%;
+    padding-bottom:7% ;
+    text-align: center;
+    color: white;
+}
+
+.btn{
+    width: 100%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+
+
+/* --------------social-------------- */
+
+#social{
+    text-align: center;
+    padding: 6%;
+}
+
+.btns{
+    background-color: #00479d;
+    color: white;
+    border: 0;
+    border-radius: 3rem;
+    padding: 3%;
+    /* width: 50%; */
+    font-size: 1.1rem;
+}
+
+/*------------- footer------------- */
+
+#Footer{
+    text-align: center;
+    background-color: #333333;
+    color: white;
+    padding-top: 2%;
+    padding-bottom: 1%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width:768px){
+
+
+    
+.img-logo{
+    width: 100px;
+    height: 70px;
+}
+.nav-link{
+    font-size: 0.9rem;
+}
+
+.nav-item{
+    padding: 0 14px;
+} 
+
+
+
+
+/* ----------facility---------- */
+.facility-heading{
+    font-size: 1.5rem;
+
+}
+
+.facility-p{
+    padding-top: 1rem;
+    font-size: 15px;
+    width: 70%;
+    margin-left: 15%;
+    padding-bottom: 3%;
+    
+}
+
+
+
+/*--------- services---------- */
+
+.card-title{
+    font-size: 1.8rem;
+}
+
+
+
+/* -------------REPORT---------- */
+
+.container-report{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.count-heading{
+    flex: 1;
+    font-size: 40px;
+    text-align: center;
+    background: #00479d;
+    color: #fff;
+    padding-top: 5%;
+    padding-bottom: 2%;
+    border-radius: 5%;
+}
+.count{
+    font-size: 3rem;
+}
+
+.count-title{
+    padding-top: 5%;
+    padding-bottom: 8%;
+    padding-left: 1%;
+    padding-right: 1%;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+
+/*-------------- About--------- */
+
+.About-p{
+    font-size: 1rem;
+    width: 70%;
+    margin-left:15%;
+}
+
+.center{
+    width: 70%;
+    margin-left: 15%;
+}
+
+/*---------------- contact--------------- */
+
+.container-fluid-contact{
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 7%;
+    padding-bottom:7% ;
+
+}
+
+.container-fluid-contact .h1{
+    font-size: 2rem;
+}
+}
+
+@media only screen and (max-width:768px){
+
+}
